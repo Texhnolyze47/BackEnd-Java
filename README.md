@@ -27,3 +27,11 @@ de la programación orienta a objetos.
 
 ### Ejecución
 ![Ejecucion del programa](src/practicaMultiverse/ejecucion/ejecucion.gif)
+
+ ## Ejercicio 4: Práctica Hilos
+
+ ### Diagrama
+ ![Ejecucion del programa](src/practicaComic/diagrama/BackEnd-ejercicio4.png)
+
+### Ejecución
+![Ejecucion del programa](src/practicaComic/ejecucion/ejecucion.gif)
