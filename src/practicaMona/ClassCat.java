@@ -2,8 +2,7 @@ package practicaMona;
 
 public class ClassCat extends OctoCat {
 
-    public ClassCat() {
-    }
+
     //herencia de los atributos de la clase de padre
     public ClassCat(String nombre, String autor, String tematica) {
         super(nombre, autor, tematica);

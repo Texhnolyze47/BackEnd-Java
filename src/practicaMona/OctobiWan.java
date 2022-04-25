@@ -2,9 +2,7 @@ package practicaMona;
 
 public class OctobiWan extends OctoCat {
 
-    public OctobiWan(){
 
-    }
     //herencia de los atributos de la clase de padre
     public OctobiWan(String nombre,String autor, String tematica){
         super(nombre,autor,tematica);
