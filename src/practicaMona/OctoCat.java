@@ -1,5 +1,6 @@
 package practicaMona;
 
+//clase padre
 public class OctoCat {
     //atributos
     private String nombre;

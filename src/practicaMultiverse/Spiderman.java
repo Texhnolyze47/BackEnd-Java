@@ -1,5 +1,6 @@
 package practicaMultiverse;
 
+//clase padre
 public class Spiderman {
 
     private String name;

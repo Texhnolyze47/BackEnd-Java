@@ -9,7 +9,7 @@ public class SPdr extends Spiderman implements SPdrAbilities{
     public SPdr(String name, String spiderman ,String tierraOrigen, String sexo, String estatura) {
         super(name,spiderman,tierraOrigen, sexo, estatura);
     }
-
+    //implementaciones de la interfaz de SPdr
     @Override
     public void drPsychicLink(Screen s) {
         s.setVisible(true);

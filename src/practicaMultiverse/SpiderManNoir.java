@@ -4,12 +4,13 @@ package practicaMultiverse;
 import imonsh.Screen;
 import imonsh.Colors;
 
+//clase hija
 public class SpiderManNoir extends Spiderman implements SpiderManNoirAbilities{
 
     public SpiderManNoir(String name, String spiderman, String tierraOrigen, String sexo, String estatura) {
         super(name,spiderman ,tierraOrigen, sexo, estatura);
     }
-
+    //implementaciones de la interfaz de SpiderManNoir
     @Override
     public void organicWebbing(Screen s) {
         s.setVisible(true);

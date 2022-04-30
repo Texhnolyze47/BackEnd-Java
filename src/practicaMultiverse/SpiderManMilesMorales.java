@@ -11,7 +11,7 @@ public class SpiderManMilesMorales extends Spiderman implements  SpiderManMilesM
         super(name, spiderman,tierraOrigen, sexo, estatura);
     }
 
-
+//implementaciones de la interfaz de SpiderManMilesMorales
     @Override
     public void camouflage(Screen s) {
         s.setVisible(true);
